@@ -3,9 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=cirarshi&label=Profile%20views&color=0e75b6&style=flat" alt="cirarshi" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=cirarshi" alt="cirarshi" /></a> </p>
-
-- 🔭 I’m currently working on **Connex**
+- 🔭 I’m currently working on [Connex](https://github.com/Cirarshi/connex)
 
 - 🌱 I’m currently learning **React Js**
 
@@ -26,5 +24,3 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=cirarshi&show_icons=true&locale=en&layout=compact" alt="cirarshi" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=cirarshi&show_icons=true&locale=en" alt="cirarshi" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=cirarshi&" alt="cirarshi" /></p>
