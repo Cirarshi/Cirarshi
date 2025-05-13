@@ -5,11 +5,11 @@
 
 - 🔭 I’m currently working on [Connex](https://github.com/Cirarshi/connex)
 
-- 🌱 I’m currently learning **React Js**
+- 🌱 Currently mastering the **MERN** stack to build innovative web solutions
 
-- 💬 Ask me about **React Js**
+- ⚛️  Happy to chat about **React** concepts and projects!
 
-- 📫 How to reach me **22.utkarsh.kapoor@gmail.com**
+- 🤝 Open to collaborations and discussions! Drop me an email at **22.utkarsh.kapoor@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
