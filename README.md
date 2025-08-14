@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working on [Connex](https://github.com/Cirarshi/connex)
 
-- 🌱 Currently mastering the **MERN** stack to build innovative web solutions
+- 🌱 Currently mastering the **DevOps & AWS Cloud** to deploy & maintain innovative web solutions
 
 - ⚛️  Happy to chat about **React** concepts and projects!
 
