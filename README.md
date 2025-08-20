@@ -3,11 +3,14 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=cirarshi&label=Profile%20views&color=0e75b6&style=flat" alt="cirarshi" /> </p>
 
+
 - 🔭 I’m currently working on [Connex](https://github.com/Cirarshi/connex)
 
 - 🌱 Currently mastering the **DevOps & AWS Cloud** to deploy & maintain innovative web solutions
 
 - ⚛️  Happy to chat about **React** concepts and projects!
+
+- 👨‍💻 Want to see what I’ve been building? Check out my portfolio: [Cirarshi](https://utkarshkapoor.netlify.app/)
 
 - 🤝 Open to collaborations and discussions! Drop me an email at **22.utkarsh.kapoor@gmail.com**
 
