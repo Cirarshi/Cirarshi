@@ -117,7 +117,7 @@
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jira/jira-original.svg" alt="jira" width="40" height="40"/>
   </a>
   <a href="https://www.gerritcodereview.com/" target="_blank" rel="noreferrer">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/3/31/Gerrit_Logo.svg" alt="gerrit" width="40" height="40"/>
+    <img src="https://raw.githubusercontent.com/fossasia/gci18.fossasia.org/master/images/logos/gerrit.svg" alt="gerrit" width="40" height="40"/>
   </a>
 </p>
 
