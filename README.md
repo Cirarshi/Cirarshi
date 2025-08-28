@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Utkarsh Kapoor</h1>
-<h3 align="center">A passionate Frontend Developer & DevOps Engineer from [India](https://emojipedia.org/samsung/one-ui-7.0-april-2025/flag-india)</h3>
+<h3 align="center">A passionate Frontend Developer & DevOps Engineer from ![India](https://emojipedia.org/samsung/one-ui-7.0-april-2025/flag-india)</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=cirarshi&label=Profile%20views&color=0e75b6&style=flat" alt="cirarshi" /> </p>
 
