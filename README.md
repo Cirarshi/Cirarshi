@@ -134,7 +134,7 @@
 -->
 
 <p>
-  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=cirarshi&show_icons=true&locale=en" alt="cirarshi" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=cirarshi&show_icons=true&locale=en" alt="cirarshi" />
 </p>
 <!--<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=cirarshi&show_icons=true&locale=en" alt="cirarshi" /></p>-->
 
