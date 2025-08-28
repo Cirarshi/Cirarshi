@@ -1,6 +1,10 @@
 <h1 align="center">👋 I'm Utkarsh Kapoor</h1>
 <h3 align="center">A passionate Frontend Developer & DevOps Engineer from India</h3>
 
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=cirarshi&label=Profile%20views&color=0e75b6&style=flat" alt="cirarshi" />
+</p>
+
 - 🌱 Currently mastering the **DevOps & AWS Cloud** to deploy & maintain innovative web solutions
 
 - ⚛️  Happy to chat about **React** & **DevOps** concepts and projects!
@@ -143,8 +147,3 @@
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/tobiasmeyhoefer/tobiasmeyhoefer/output/github-snake.svg" />
   <img alt="github-snake" src="https://raw.githubusercontent.com/tobiasmeyhoefer/tobiasmeyhoefer/output/github-snake.svg" />
 </picture>
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=cirarshi&label=Profile%20views&color=0e75b6&style=flat" alt="cirarshi" />
-</p>
-
