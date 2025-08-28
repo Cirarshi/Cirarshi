@@ -135,8 +135,7 @@
 
 <p>
   <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=cirarshi&show_icons=true&locale=en" alt="cirarshi" />
-  <img align="center" src="https://komarev.com/ghpvc/?username=cirarshi&label=Profile%20views&color=0e75b6&style=flat" alt="cirarshi" />
-  <img align="right" src="https://media.giphy.com/media/WKdWA04KRn58A/giphy.gif"></p>
+</p>
 <!--<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=cirarshi&show_icons=true&locale=en" alt="cirarshi" /></p>-->
 
 <picture align="center">
@@ -144,3 +143,5 @@
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/tobiasmeyhoefer/tobiasmeyhoefer/output/github-snake.svg" />
   <img alt="github-snake" src="https://raw.githubusercontent.com/tobiasmeyhoefer/tobiasmeyhoefer/output/github-snake.svg" />
 </picture>
+
+<img align="center" src="https://komarev.com/ghpvc/?username=cirarshi&label=Profile%20views&color=0e75b6&style=flat" alt="cirarshi" />
