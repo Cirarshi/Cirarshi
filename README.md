@@ -138,8 +138,6 @@
 
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=cirarshi&show_icons=true&locale=en&layout=compact" alt="cirarshi" /></p>
 
-<p><img src="https://media.giphy.com/media/WKdWA04KRn58A/giphy.gif"></p>
-
 <!--<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=cirarshi&show_icons=true&locale=en" alt="cirarshi" /></p>-->
 
 <picture>
@@ -147,3 +145,5 @@
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/tobiasmeyhoefer/tobiasmeyhoefer/output/github-snake.svg" />
   <img alt="github-snake" src="https://raw.githubusercontent.com/tobiasmeyhoefer/tobiasmeyhoefer/output/github-snake.svg" />
 </picture>
+
+<p><img align="center" src="https://media.giphy.com/media/WKdWA04KRn58A/giphy.gif"></p>
