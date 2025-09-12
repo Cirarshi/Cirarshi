@@ -21,7 +21,7 @@
 <p>Here are a few things I’ve been working on & delivered:</p>
 <ul>
   <li>🌐 <a href="https://utkarshkapoor.netlify.app/" target="_blank" rel="noreferrer">Check out my portfolio</a></li>
-  <li>🔗 <a href="https://github.com/Cirarshi/connex" target="_blank" rel="noreferrer">Connex – A travel app</a></li>
+  <li>🔗 <a href="https://connextravel.netlify.app/" target="_blank" rel="noreferrer">Connex – A travel app</a></li>
   <li>📚 <a href="https://cadcamrender.in/" target="_blank" rel="noreferrer">E-Learning Platform – Interactive courses and tutorials</a></li>
   <li>🍕 <a href="https://connex-pizza.netlify.app/" target="_blank" rel="noreferrer">Restaurant App – Online ordering for pizza & burgers</a></li>
   <li>🔌 <a href="https://connexresell.netlify.app/" target="_blank" rel="noreferrer">Electronics Reselling Site – Buy & sell used gadgets</a></li>
