@@ -27,6 +27,16 @@
   <li>🔌 <a href="https://connexresell.netlify.app/" target="_blank" rel="noreferrer">Electronics Reselling Site – Buy & sell used gadgets</a></li>
 </ul>
 
+<h3>📚 My Learning Playground</h3>
+<p>Here are some repositories where I’m exploring and learning the basics of different tools & technologies:</p>
+<ul>
+  <li>⚛️ <a href="https://github.com/Cirarshi/Js-React-Projects" target="_blank" rel="noreferrer">React Basics – Components, Hooks & State Management</a></li>
+  <li>🐍 <a href="https://github.com/Cirarshi/Python" target="_blank" rel="noreferrer">Python Essentials – Scripts, Functions & OOP</a></li>
+  <li>🛠️ <a href="https://github.com/Cirarshi/test-python-webapp" target="_blank" rel="noreferrer">Jenkins CI/CD – Pipelines & Automation</a></li>
+  <!--<li>☁️ <a href="https://github.com/your-username/docker-basics" target="_blank" rel="noreferrer">Docker Fundamentals – Images, Containers & Volumes</a></li>
+  <li>🌐 <a href="https://github.com/your-username/api-basics" target="_blank" rel="noreferrer">REST API Practice – CRUD & Integration</a></li>-->
+</ul>
+
 <h1 align="left">Languages and Tools:</h1>
 
 <h3 align="left">☁️ Cloud & DevOps</h3>
