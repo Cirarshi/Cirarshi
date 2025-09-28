@@ -28,7 +28,7 @@
 </ul>
 
 <h3>📚 My Learning Playground</h3>
-<p>Here are some repositories where I’m exploring and learning the basics of different tools & technologies:</p>
+<p>Here are some of my repositories where I’m exploring and learning the basics of different tools & technologies:</p>
 <ul>
   <li>⚛️ <a href="https://github.com/Cirarshi/Js-React-Projects" target="_blank" rel="noreferrer">React Basics – Components, Hooks & State Management</a></li>
   <li>🐍 <a href="https://github.com/Cirarshi/Python" target="_blank" rel="noreferrer">Python Essentials – Scripts, Functions & OOP</a></li>
