@@ -64,6 +64,21 @@
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/>
   </a>
   -->
+<h3 align="left">💻 Operating Systems & System Administration </h3>
+<p align="left">
+  <a href="https://www.linux.org/" target="_blank" rel="noreferrer">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/>
+</a>
+
+<a href="https://www.redhat.com/en/technologies/linux-platforms/enterprise-linux" target="_blank" rel="noreferrer">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redhat/redhat-original.svg" alt="rhel" width="40" height="40"/>
+</a>
+
+<a href="https://www.oracle.com/solaris/" target="_blank" rel="noreferrer">
+  <img src="https://upload.wikimedia.org/wikipedia/commons/5/5f/Oracle_Solaris_logo.svg" alt="solaris" width="40" height="40"/>
+</a>
+<p>
+
 </p>
 
 <h3 align="left">🚀 Frontend Development</h3>
