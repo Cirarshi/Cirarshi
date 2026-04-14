@@ -75,7 +75,7 @@
 </a>
 
 <a href="https://www.oracle.com/solaris/" target="_blank" rel="noreferrer">
-  <img src="https://upload.wikimedia.org/wikipedia/commons/5/5f/Oracle_Solaris_logo.svg" alt="solaris" width="40" height="40"/>
+  <img src="https://sc.wikipedia.org/wiki/File:Oracle_Solaris_logo.svg" alt="solaris" width="40" height="40"/>
 </a>
 <p>
 
